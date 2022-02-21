@@ -23,4 +23,5 @@ ReactDOM.render(
     </BrowserRouter>,
     document.querySelector('#root')
 )
+
 registerServiceWorker()
